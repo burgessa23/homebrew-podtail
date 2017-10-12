@@ -1,9 +1,9 @@
 class Podtail < Formula
     desc "Tool to tail Kubernetes logs from multiple pods at the same time"
     homepage "https://github.com/johnmccabe/podtail/"
-    url "https://github.com/johnmccabe/podtail/releases/download/v0.1.3/podtail-darwin.tgz"
-    sha256 "fbc08ffbb9834142b77a6e310a2908eae338b8b9604084c0032143292cae89d3"
-    version "v0.1.3"
+    url "https://github.com/johnmccabe/podtail/releases/download/v0.1.4/podtail-darwin.tgz"
+    sha256 "239efefc152cc16871ef9f9e0d0601fe86380d0bc2bff4bfe15dea97615334c0"
+    version "v0.1.4"
   
     bottle :unneeded
   
