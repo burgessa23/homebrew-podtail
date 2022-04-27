@@ -5,7 +5,6 @@ class Podtail < Formula
     sha256 "239efefc152cc16871ef9f9e0d0601fe86380d0bc2bff4bfe15dea97615334c0"
     version "v0.1.4"
   
-    bottle :unneeded
   
     def install
       mv "podtail-darwin", "podtail"
